@@ -11,7 +11,6 @@ PyQt5==5.15.4
 qrcode==7.3
 Pillow==8.3.1
 Flask-Mail==0.9.1
-python-dotenv==0.19.0
 werkzeug==2.0.1
 pyotp==2.6.0
 requests>=2.31.0
